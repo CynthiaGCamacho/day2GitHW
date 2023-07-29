@@ -5,8 +5,13 @@ public class HomeworkGit {
 		System.out.println("Cynthia Camacho...");
 		System.out.println("This is Git Homework");
 	}
-
+	
+    
 	public void add(int a, int b) {
 		System.out.println(a+b);
+	}
+	//subtract method
+	public void subtract(int a, int b) {
+		System.out.println(a-b);
 	}
 }
