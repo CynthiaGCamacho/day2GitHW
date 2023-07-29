@@ -14,4 +14,8 @@ public class HomeworkGit {
 	public void subtract(int a, int b) {
 		System.out.println(a-b);
 	}
+	//another method
+	public void getInfo(){
+		System.out.println("Massachusetts");
+		System.out.println("Arlington");
 }
